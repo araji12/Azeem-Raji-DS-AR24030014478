@@ -1,4 +1,4 @@
-# Looping through a list (Example 1)
+
 pokemon_list = [ 'Pikachu', 'Charizard', 'Infernape']
 for i in pokemon_list: 
       print("Current Pokemon: ", i)
